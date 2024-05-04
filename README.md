@@ -1,2 +1,4 @@
 # Audio-to-Text-using-LLMs
-Deployed Model: ![image](https://github.com/PrathamKumar125/Audio-to-Text-using-LLMs/assets/115283906/5670982f-7974-4cd3-b01f-3a932ed8ee98)
+Deployed Link: https://huggingface.co/spaces/pratham0011/OpenAI-Whisper_Audio2Text_WebUI
+Deployed Model: ![image](https://github.com/PrathamKumar125/Audio-to-Text-using-LLMs/assets/115283906/fed43847-8e1c-4b2b-b13a-afcf1afbcabb)
+
